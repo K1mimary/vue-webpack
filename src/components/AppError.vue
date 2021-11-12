@@ -6,8 +6,8 @@
 
 <script>
 export default {
-  name: 'AppError'
-};
+  name: 'AppError',
+}
 </script>
 
 <style lang="scss" scoped>

@@ -19,9 +19,11 @@
     <router-view/>
   </div>
 </template>
+<script>
+</script>
 
 <style lang="scss" scoped>
-  $mainColor: #333;
+  $mainColor: #343;
   .test{
     width: 100%;
     height: 100%;
